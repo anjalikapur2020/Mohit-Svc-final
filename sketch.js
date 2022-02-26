@@ -65,7 +65,7 @@ function preload() {
     heartlostallimg = loadAnimation("lifelostall.png", "lifelostall.png", "lifelostall.png")
     winbg = loadImage("winbg.jpg")
 
-    collectionbar = loadImage("collectionbar.PNG")
+    collectionbar = loadImage("collectionbar.png")
     power1img = loadImage("shield.png")
 
 
